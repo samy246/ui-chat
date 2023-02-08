@@ -266,6 +266,10 @@ font-weight: 500;
       gap: 75px;
       padding: 7rem 0;
     }
+    main .texts span{
+        display: flex;
+        justify-content: center;
+    }
     main .texts {
       width: 80vw;
     }
@@ -298,7 +302,7 @@ font-weight: 500;
     width: 52%;
     height: 570px;
     /* bottom: 0; */
-    bottom: -45%;
+    bottom: -25%;
     right: 0;
     border-radius: 200px 0 0 0;
     transition: 0.3s ease all;
