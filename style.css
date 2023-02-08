@@ -185,7 +185,12 @@
     border-radius: 15px 15px 15px 5px;
   }
   main .mobile .body .body__message-received-btn i {
-    color: hsl(289deg, 100%, 72%);
+    color: hsl(311deg 74% 64%);
+    /* color: hsl(289deg, 100%, 72%); */
+  }
+
+  #walk{
+    color: hsl(0deg 38% 91%);
   }
   main .mobile .body .body__message-received-btn p {
     color: hsl(0deg, 0%, 100%);
