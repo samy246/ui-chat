@@ -285,7 +285,7 @@ font-weight: 500;
       position: absolute;
       background-image: linear-gradient(to bottom, hsl(293deg, 100%, 63%), hsl(264deg, 100%, 61%));
       top: 0;
-      left: -40px;
+      left: -50px;
       z-index: -1;
       border-radius: 0 0 15vw 15vw;
     }
@@ -297,7 +297,7 @@ font-weight: 500;
     width: 52%;
     height: 570px;
     /* bottom: 0; */
-    bottom: -55%;
+    bottom: -45%;
     right: 0;
     border-radius: 200px 0 0 0;
     transition: 0.3s ease all;
