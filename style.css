@@ -290,7 +290,7 @@ font-weight: 500;
     background-color: aqua;
     /* background: hsla(276, 50%, 96%, 0.677); */
     width: 50%;
-    height: 450px;
+    height: 550px;
     bottom: 0;
     right: 0;
     border-radius: 200px 0 0 0;
@@ -310,6 +310,18 @@ font-weight: 500;
         /* font-size: 30px; */
         /* font-weight: 500; */
       }
+      .bg-color-2{
+        position: fixed;
+    z-index: -5;
+    background-color: aqua;
+    /* background: hsla(276, 50%, 96%, 0.677); */
+    width: 50%;
+    height: 450px;
+    bottom: 0;
+    right: 0;
+    border-radius: 200px 0 0 0;
+    transition: 0.3s ease all;
+    }
     main {
       flex-direction: column;
       gap: 50px;
@@ -330,7 +342,7 @@ font-weight: 500;
       gap: 30px;
     }
     main .mobile {
-      max-width: 80vw;
+      max-width: 85vw;
     }
     main .mobile header .mobile__notch {
       width: 150px;
@@ -341,6 +353,9 @@ font-weight: 500;
     }
     main .mobile .body .body__message-received-btn {
       width: 180px;
+    }
+    main form{
+padding: 10px;
     }
   }
   
