@@ -265,10 +265,10 @@ font-weight: 500;
       width: 80vw;
     }
     main .texts span{
-        font-size: 35px;
+        font-size: 25px;
         display: flex;
         justify-content: center;
-        width: 80vw;
+         /*width: 80vw; */
         
       }
     main .texts p{
