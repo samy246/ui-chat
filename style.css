@@ -248,13 +248,12 @@ font-weight: 500;
     main {
       gap: 50px;
     }
-    main .texts span{
+    /* main .texts span{
         font-size: 40px;
         display: flex;
         justify-content: center;
-        /* font-size: 30px; */
-        /* font-weight: 500; */
-      }
+        
+      } */
   }
   @media (max-width: 630px) {
     main {
@@ -266,11 +265,10 @@ font-weight: 500;
       width: 80vw;
     }
     main .texts span{
-        font-size: 40px;
+        font-size: 35px;
         display: flex;
         justify-content: center;
-        /* font-size: 30px; */
-        /* font-weight: 500; */
+        
       }
     main .texts p{
         text-align: center;
