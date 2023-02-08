@@ -264,13 +264,13 @@ font-weight: 500;
     main .texts {
       width: 80vw;
     }
-    main .texts span{
+    /* main .texts span{
         font-size: 25px;
         display: flex;
         justify-content: center;
-         /*width: 80vw; */
         
-      }
+        
+      } */
     main .texts p{
         text-align: center;
     }
