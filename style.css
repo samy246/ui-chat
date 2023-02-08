@@ -263,7 +263,7 @@ font-weight: 500;
   @media (max-width: 630px) {
     main {
       flex-direction: column;
-      gap: 50px;
+      gap: 65px;
       padding: 4rem 0;
     }
     main .texts {
@@ -330,7 +330,7 @@ font-weight: 500;
     }
     main {
       flex-direction: column;
-      gap: 50px;
+      gap: 60px;
     }
     main .texts {
       width: 80vw;
