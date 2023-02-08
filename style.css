@@ -287,10 +287,10 @@ font-weight: 500;
     .bg-color-2{
         /* position: fixed; */
     z-index: -5;
-    background-color: aqua;
-    /* background: hsla(276, 50%, 96%, 0.677); */
+    /* background-color: aqua; */
+    background: hsla(276, 50%, 96%, 0.677);
     width: 52%;
-    height: 470px;
+    height: 570px;
     /* bottom: 0; */
     bottom: -55%;
     right: 0;
@@ -314,8 +314,8 @@ font-weight: 500;
       .bg-color-2{
         /* position: fixed; */
     z-index: -5;
-    background-color: aqua;
-    /* background: hsla(276, 50%, 96%, 0.677); */
+    /* background-color: aqua; */
+    background: hsla(276, 50%, 96%, 0.677);
     width: 50%;
     height: 450px;
     /* bottom: 0; */
