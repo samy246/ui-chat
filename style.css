@@ -285,13 +285,14 @@ font-weight: 500;
       border-radius: 0 0 15vw 15vw;
     }
     .bg-color-2{
-        position: fixed;
+        /* position: fixed; */
     z-index: -5;
     background-color: aqua;
     /* background: hsla(276, 50%, 96%, 0.677); */
     width: 52%;
     height: 470px;
-    bottom: 0;
+    /* bottom: 0; */
+    bottom: -55%;
     right: 0;
     border-radius: 200px 0 0 0;
     transition: 0.3s ease all;
@@ -311,13 +312,13 @@ font-weight: 500;
         /* font-weight: 500; */
       }
       .bg-color-2{
-        position: fixed;
+        /* position: fixed; */
     z-index: -5;
     background-color: aqua;
     /* background: hsla(276, 50%, 96%, 0.677); */
     width: 50%;
     height: 450px;
-    bottom: 0;
+    /* bottom: 0; */
     right: 0;
     border-radius: 200px 0 0 0;
     transition: 0.3s ease all;
