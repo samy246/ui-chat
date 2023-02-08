@@ -300,7 +300,7 @@ font-weight: 500;
   }
   @media (max-width: 375px) {
     body .bg {
-      width: 50vw;
+      width: 65vw;
       top: -100px;
       left: -50px;
     }
