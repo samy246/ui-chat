@@ -281,13 +281,14 @@ font-weight: 500;
     }
     body .bg {
       width: 60vw;
-      height: 80vh;
+      height: 65vh;
       position: absolute;
       background-image: linear-gradient(to bottom, hsl(293deg, 100%, 63%), hsl(264deg, 100%, 61%));
       top: 0;
       left: -50px;
       z-index: -1;
-      border-radius: 0 0 15vw 15vw;
+      border-bottom-right-radius: 350px;
+      /* border-radius: 0 0 15vw 15vw; */
     }
     .bg-color-2{
         /* position: fixed; */
@@ -308,6 +309,7 @@ font-weight: 500;
       width: 65vw;
       top: -100px;
       left: -50px;
+      border-bottom-right-radius: 350px
     }
     main .texts span{
         font-size: 30px;
