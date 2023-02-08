@@ -285,7 +285,7 @@ font-weight: 500;
       position: absolute;
       background-image: linear-gradient(to bottom, hsl(293deg, 100%, 63%), hsl(264deg, 100%, 61%));
       top: 0;
-      left: -50px;
+      left: -40px;
       z-index: -1;
       border-radius: 0 0 15vw 15vw;
     }
