@@ -258,6 +258,13 @@ font-weight: 500;
     main .texts {
       width: 80vw;
     }
+    main .texts span{
+        font-size: 40px;
+        display: flex;
+        justify-content: center;
+        /* font-size: 30px; */
+        /* font-weight: 500; */
+      }
     main .texts p{
         text-align: center;
     }
