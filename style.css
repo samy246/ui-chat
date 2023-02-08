@@ -77,7 +77,7 @@
   main .mobile header {
     background-image: linear-gradient(to right, hsl(264deg, 100%, 61%), hsl(293deg, 100%, 63%));
   }
-  main .mobile header .mobile__notch {
+  main .mobile header .mobile_notch {
     width: 180px;
     height: 25px;
     background-color: hsl(0deg, 0%, 100%);
@@ -105,12 +105,12 @@
     align-items: center;
     margin-left: 10px;
   }
-  main .mobile header .bottom .header-left figure .header__avatar {
+  main .mobile header .bottom .header-left figure .header_avatar {
     border-radius: 50%;
     overflow: hidden;
     border: 2px solid hsl(270deg, 20%, 96%);
   }
-  main .mobile header .bottom .header-left figure .header__avatar img {
+  main .mobile header .bottom .header-left figure .header_avatar img {
     width: 30px;
   }
   main .mobile header .bottom .header-left figure figcaption {
@@ -357,7 +357,7 @@ font-weight: 500;
     main .mobile {
       max-width: 87vw;
     }
-    main .mobile header .mobile__notch {
+    main .mobile header .mobile_notch {
       width: 150px;
     }
     main .mobile .body div,
